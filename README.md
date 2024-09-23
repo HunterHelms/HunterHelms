@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HunterHelms
-- 👀 I’m interested in creating digital solutions.
+- 👀 I’m interested in creating digital tools and products.
 - 🌱 I’m currently learning Python, Flutter & Javascript.
 - 👨‍💻 I’m looking to collaborate on anything interesting, solving a real-world issue.
 - 📫 Connect with me on LinkedIn. 
