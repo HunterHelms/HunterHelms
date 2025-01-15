@@ -41,7 +41,7 @@ I thrive at the intersection of product management and development, diving deep 
 
 ---
 
-⚡️ **"Innovation happens where creativity meets strategy."**
+⚡️ **"The people who are crazy enough to think they can change the world are the ones who do."**
 
 <!---
 HunterHelms/HunterHelms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
